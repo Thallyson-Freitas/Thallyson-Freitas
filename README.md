@@ -1,38 +1,25 @@
 # Olá, eu sou Thallyson Freitas 👋
 
-**Líder Técnico de QA | Automação de Testes | Qualidade de Software**
+**Líder Técnico de QA**, com cerca de seis anos de experiência em qualidade de software. Meu foco está em automação de testes, testes de API REST, planejamento estratégico de qualidade e CI/CD.
 
-Atuo com qualidade de software desde 2020 e atualmente trabalho como Líder Técnico na Phoebus. Tenho experiência com testes automatizados, testes de API REST e planejamento estratégico de qualidade, incluindo contextos de sistemas financeiros e automação de front-end.
+Uso este espaço para estudar, fazer cursos e experimentar tecnologias. Atualmente, estou aprofundando meus conhecimentos em automação, inteligência artificial e DevOps. Um pouco de estratégia de duelo e curiosidade fantasmagórica acompanha cada experimento. 🃏👻
 
-Uso este GitHub para estudar, praticar e compartilhar experimentos com tecnologias e cursos. No momento, estou aprofundando meus conhecimentos em automação, CI/CD, inteligência artificial e DevOps.
+## Tecnologias e ferramentas
 
-## 🧪 Áreas de interesse
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/REST_Assured-555555?style=for-the-badge" alt="REST Assured" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
+</p>
 
-- Automação de testes e CI/CD
-- Testes de API REST
-- Testes funcionais e não funcionais
-- Estratégia e planejamento de qualidade
-- Sistemas financeiros
-
-## 🛠️ Tecnologias e ferramentas
-
-**Linguagens:** Java · JavaScript · TypeScript · Python  
-**Automação e testes:** Playwright · Cypress · Selenium · JUnit · REST Assured  
-**Estudos e práticas:** Cucumber · BDD · Mockito · TDD · JMeter
-
-## 📚 Formação e aprendizado
-
-- Licenciatura em Ciência da Computação — Universidade Federal da Paraíba
-- Estudando automação, inteligência artificial e DevOps
-
-## 🤝 Como trabalho
-
-Gosto de colaborar e apoiar o crescimento da equipe, e também de ter espaço para estudar e desenvolver soluções de forma independente.
-
-## 🌐 Encontre-me
-
-[LinkedIn](https://www.linkedin.com/in/thallysonfreitas/)
-
----
-
-*Em cada projeto de estudo, invocando um pouco da curiosidade do Gengar e da estratégia de um bom duelo.* 👻
+<p align="center">
+  <a href="https://www.linkedin.com/in/thallysonfreitas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
